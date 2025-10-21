@@ -1,5 +1,6 @@
 # PDFリサイズツール
 
+[リリースぺージ](https://github.com/Junya333/pdf-resizer/releases/tag/v1.0.0)からダウンロードできます。
 PDFファイルのページサイズを一括で変更するためのツールです。
 
 ## 機能
